@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "DUMY_bookcrossing",
+    "slug": "DUMY_bookcrossing"
+  }
+}
